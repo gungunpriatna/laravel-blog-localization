@@ -11,6 +11,7 @@
 </head>
 
 <body>
+@include('component.navbar')
 
 <div class="container mx-auto mt-10 mb-10 px-10">
     <div class="grid grid-cols-8 gap-4 mb-4 p-5">
